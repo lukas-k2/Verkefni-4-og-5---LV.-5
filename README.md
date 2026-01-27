@@ -5,6 +5,6 @@
 
 _italick_
 
-*_both_*
+_*both*_
 
 serch for (nst.is)
