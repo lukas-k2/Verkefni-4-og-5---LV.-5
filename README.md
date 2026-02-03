@@ -2,7 +2,7 @@
 ## Skýrsla fyrir verkefni 4 og 5
 
 **Suðurskautsklandrið**
-* *Veigar og Lúkas* *
+*Veigar og Lúkas* 
 Við byrjuðum saman í hóp rosa kátir og byrjuðu að hanna borðspilið
 Hugmyndir fyrir borðspil eins og Jumanji líkt spil þar sem hlutir myndu gerast og fylgdu reglur spilsins eins og í myndinni.
 Okkar borðspil myndi innihalda **takk, skjá, segla, hátalara, RGB ljós, ESP-32** og víra til að setja það saman.
