@@ -1,7 +1,5 @@
-# Verkefni 4-og-5 H.5
+# Sudurskautsklandrið
 ## Skýrsla fyrir verkefni 4 og 5
-
-**Suðurskautsklandrið**
 
 *Veigar og Lúkas* 
 
