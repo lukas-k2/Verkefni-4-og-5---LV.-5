@@ -5,7 +5,7 @@
 
 Við byrjuðum saman í hóp rosa kátir og byrjuðu að hanna borðspilið
 Hugmyndir fyrir borðspil eins og Jumanji líkt spil þar sem hlutir myndu gerast og fylgdu reglur spilsins eins og í myndinni.
-Okkar borðspil myndi innihalda **takk, skjá, segla, hátalara, RGB ljós, ESP-32** og víra til að setja það saman.
+Okkar borðspil myndi innihalda **takka, skjá, segla, hátalara, RGB ljós, ESP-32** og víra til að setja það saman.
 Borðspilið er um mörgæsir á Suðurskautslandinu sem þarf að komast heim, á leiðinni mun leikmenn vera fyrir hindranir þar á meðal snjóbirni og manneskjum, þar sem mörgæs mun velja ákvörðun til að komast áfram.
 
 **Skjárinn - notaður til að segja stöðu leiksins eins og segja hversu mörg líf eru eftir, hvaða hindrun er fyrir leikmanni eða sem teningur.**
@@ -14,4 +14,8 @@ Borðspilið er um mörgæsir á Suðurskautslandinu sem þarf að komast heim, 
 
 **Takkar - Stóri takkinn til að byrja leikinn, minni takkar fyrir að rulla tening og ákveða leikmenn.**
 
-Spilið mun hafa 1-2 leikmenn, stóri takkinn verður notaður til að rúlla tening. Annað hvort reitur munn hafa hindrun 
+Spilið mun hafa 1 leikmenn, stóri takkinn verður notaður til að rúlla tening og tveir minni takkar fyrir spurningar tengt hindrunum.
+
+**Checkpoint reitir - Eftir maður er kominn á þessan reit getur þau farið aftur á þessan reit eftir hindrunar reit.**
+
+**Hindrunar reitir - Þegar maður lendir á þessa reit, er spurt þeim spurningu þar sem ef þau svara rangt fara þau til baka á checkpoint reiti.**
