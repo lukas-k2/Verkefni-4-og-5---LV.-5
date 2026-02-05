@@ -14,11 +14,11 @@ Borðspilið er um mörgæsir á Suðurskautslandinu sem þarf að komast heim, 
 
 **Takkar - Stóri takkinn til að byrja leikinn, minni takkar fyrir að rulla tening og ákveða leikmenn.**
 
-Spilið mun hafa 1 leikmenn, stóri takkinn verður notaður til að rúlla tening og tveir minni takkar fyrir spurningar tengt hindrunum.
+Spilið mun hafa 1 leikmann, stóri takkinn verður notaður til að rúlla tening og tveir minni takkar fyrir spurningar tengt hindrunum.
 
 **Checkpoint reitir - Eftir maður er kominn á þessan reit getur þau farið aftur á þessan reit eftir hindrunar reit.**
 
-**Hindrunar reitir - Þegar maður lendir á þessa reit, er spurt þeim spurningu þar sem ef þau svara rangt fara þau til baka á checkpoint reiti.**
+**Hindrunar reitir - Þegar maður lendir á þessa reit, er spurt þeim spurningu þar sem ef þau svara rangt fara þau til baka á checkpoint reiti. Hver reitur mun hafa segull fyrir neðan til að láta spilið vita hvar leikmaður er.**
 
 ## Leikreglur ##
 
