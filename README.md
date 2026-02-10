@@ -27,6 +27,8 @@ Reglur:
 5. **Reitir**
    - Checkpoint reitir eru reitir sem leikmaður getur farið aftur á eftir að hafa tapið spurningu, þar sem hindrunar reitir hafa spurningar sem leikmaður þarf að svara rétt til að komast áfram.
 
-![mynd af morgaes](https://github.com/lukas-k2/Sudurskaustsklandrid/blob/main/Amazing%20Maimu-4.stl)
+<img src="https://github.com/lukas-k2/Sudurskaustsklandrid/blob/main/Amazing%20Maimu-4.stl" width="50%" height="50%">
+
+(https://github.com/lukas-k2/Sudurskaustsklandrid/blob/main/Amazing%20Maimu-4.stl)
 
 [morgaes](https://github.com/lukas-k2/Sudurskaustsklandrid/blob/main/Amazing%20Maimu-4.stl)
