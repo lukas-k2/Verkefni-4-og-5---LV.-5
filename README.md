@@ -2,8 +2,6 @@
 ![CpYApR5JCgPkr6hDd6PN7F](https://github.com/user-attachments/assets/e1c48567-faeb-481d-81ba-336c8a04f14c)
 
 # Sudurskautsklandrið
-## Skýrsla fyrir verkefni 4 og 5
-
 *Veigar og Lúkas* 
 
 ## Skýrsla ##
