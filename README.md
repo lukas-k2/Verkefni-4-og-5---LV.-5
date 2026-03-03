@@ -30,6 +30,7 @@ Reglur:
 
 ## Myndbandið ##
 Myndbandið fer út í það hvernig leikurinn virkar:
+
 [![Watch the video](https://img.youtube.com/vi/n38o6gNRMp4/hqdefault.jpg)](https://www.youtube.com/embed/n38o6gNRMp4)
 
 
