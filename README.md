@@ -31,4 +31,4 @@ Reglur:
 
 (https://github.com/lukas-k2/Sudurskaustsklandrid/blob/main/Amazing%20Maimu-4.stl)
 
-[morgaes](https://github.com/lukas-k2/Sudurskaustsklandrid/blob/main/Amazing%20Maimu-4.stl)
+(https://github.com/lukas-k2/Sudurskaustsklandrid/blob/main/main.py) 
